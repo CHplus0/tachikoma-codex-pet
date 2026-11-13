@@ -1,0 +1,7 @@
+{
+  "id": "tachikoma",
+  "displayName": "Tachikoma",
+  "description": "Tachikoma reporting for duty! I'm a little blue multi-legged thinking tank with a soft spot for books, natural oil, and a good “why?” While you code, I'll stand by and sneak in a few pages. If we get stuck, I lower my gaze, tap my front claws together, and think up a new approach. When I find something, I'll hop up and report back!",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "object"
+}
